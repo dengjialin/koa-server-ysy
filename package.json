@@ -1,0 +1,19 @@
+{
+  "name": "koa-server-ysy",
+  "version": "1.0.0",
+  "description": "koa learing",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa",
+    "ysy"
+  ],
+  "author": "ysy",
+  "license": "ISC"
+}
